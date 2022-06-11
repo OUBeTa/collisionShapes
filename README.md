@@ -1,6 +1,6 @@
 -coments are in portuguese-
 
-*possible futures updates*
+possible futures updates
 	gravity
 	circular colision
 	odd forms collision

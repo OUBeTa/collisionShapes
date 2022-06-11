@@ -1,0 +1,14 @@
+#char{
+
+	background-color: gray;
+
+	top: 0px ;
+	left: 0px;
+
+}
+
+.walls{
+
+	background-color: lightgreen;
+
+}
